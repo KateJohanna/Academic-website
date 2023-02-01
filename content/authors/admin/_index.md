@@ -19,7 +19,9 @@ interests:
 - Monetary and Financial Policy
 - International Finance and Investment
 - International Development and Aid
-- Quantitative research methods and text analysos
+- Bureaucratic structures and change
+- Financialization
+- Quantitative research methods and quantitative text analysis
 last_name: Fleiner
 organizations:
 - name: University of Geneva

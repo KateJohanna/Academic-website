@@ -10,7 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: M
-
+  
 # SEO
 
 marketing:
@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Academic website of Katharina Fleiner. Political Scientist at the University of Geneva. Interested in Political Economy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -44,7 +43,7 @@ header:
 footer:
   copyright: 
     notice: '© {year} Katharina Fleiner'
-    license:
+    license: 
       enable: false
       allow_derivatives: false
       share_alike: false

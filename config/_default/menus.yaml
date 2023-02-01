@@ -7,21 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
+  - name: Thesis Project
+    url: '#thesis'
     weight: 20
-  - name: Teaching
-    url: '#projects'
+  - name: Other research
+    url: '#research'
     weight: 30
-  #- name: Talks
-    #url: '#talks'
-    #weight: 40
-  #- name: Publications
-   # url: '#featured'
-   # weight: 50
+  - name: Teaching
+    url: '#teaching'
+    weight: 40
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 50
+  - name: Contact me
+    weight: 60
+    url: '#contact'
+
 
 
 # Link to a PDF of your resume/CV from the menu.
