@@ -34,6 +34,7 @@ sections:
     title: Non-academic publications
     subtitle: Read my contributions to the UK Investor Magazine <a href=https://ukinvestormagazine.co.uk/author/katy-fleiner/>HERE</a>
 - block: contact
+  id: contact
   content:
     title: Contact me
     email: katharina [dot] fleiner [at] unige [dot] ch
@@ -43,7 +44,6 @@ sections:
         icon_pack: fab
         name: DM Me
         link: 'https://twitter.com/Katie_Johanna'
-    id: contact
 type: landing
 ---
 
