@@ -16,9 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Academic website of Katharina Fleiner. Political Scientist at the University of Geneva. Interested in Political Economy'
+    local_business_type: 'Political Economist'
+    org_name: 'Katharina Fleiner - Academic'
+    description: 'Academic website of Katharina Fleiner. Political Scientist at the University of Geneva. Interested in Political Economy, Financialization, Sovereign Wealth Management'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer

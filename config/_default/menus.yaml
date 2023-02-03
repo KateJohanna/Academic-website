@@ -17,7 +17,7 @@ main:
     url: '#teaching'
     weight: 40
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/Katharina-Fleiner-CV.pdf
     weight: 50
   - name: Contact me
     weight: 60

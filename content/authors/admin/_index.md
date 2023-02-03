@@ -46,7 +46,7 @@ social:
   link: https://www.linkedin.com/in/katharinajfleiner/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Katharina-Fleiner-CV.pdf
 superuser: true
 title: Katharina Fleiner
 ---
