@@ -18,7 +18,7 @@ sections:
   content:
     title: Other ongoing research
     subtitle: 
-    text: <p><strong>"Who Follows the IO’s Rulebook? Evidence from the OECD Development Assistance Committee"</strong> with Alice Iannantuoni and Simone Dietrich (Draft available on request)<p>  <p><strong>"Targeting Gender Equality through Foreign Aid"</strong> with Daniela Donno, Simone Dietrich and Alice Iannantuoni (draft available on request)<p>
+    text: <p><strong>"Who Follows the IO’s Rulebook? Evidence from the OECD Development Assistance Committee"</strong> with Alice Iannantuoni and Simone Dietrich (Draft available on request)<p>  <p><strong>"Targeting Gender Equality through Foreign Aid"</strong> with Daniela Donno, Simone Dietrich and Alice Iannantuoni (Draft available on request)<p>
   design:
     columns: '2'
 - block: markdown
