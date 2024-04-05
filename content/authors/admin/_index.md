@@ -18,9 +18,8 @@ interests:
 - Political Economy
 - International Finance and Investment
 - Aid and Development Finance
-- Bureaucratic structures and change
+- International Organizations
 - Monetary and Financial Policy
-- Financialization
 - Quantitative research methods and quantitative text analysis
 last_name: Fleiner
 organizations:
@@ -55,9 +54,9 @@ title: Katharina Fleiner
 
 I am a PhD Candidate in Political Science at the [Department for Polical Science and International Relations](https://www.unige.ch/sciences-societe/speri/) at the University of Geneva. My research focuses on the political economy of finance, monetary and financial policy, and development. 
 
-My [PhD project](https://www.unige.ch/sciences-societe/speri/recherche/theses-de/?id=1228) investigates the role of Sovereign Wealth Funds (SWFs) in the process of state financialization. I study the reasons behind SWF creation over the past three decades, the institutionalization of government-fund relationships via their governance structures, and the effect of government interests on their behaviour during the Covid-pandemic. 
+My [PhD project](https://www.unige.ch/sciences-societe/speri/recherche/theses-de/?id=1228) investigates the role of Sovereign Wealth Funds (SWFs) as tools of state-led finance. I study the reasons behind SWF creation over the past three decades, the institutionalization of government-fund relationships via their governance structures, and the effect of government interests on their behaviour during the Covid-pandemic. 
 
-I am part of the Swiss National Science Foundation project ["Evaluating the Pursuit of International Development Norms through Peer Review"](https://www.unige.ch/sciences-societe/speri/recherche/projets-de-recherche/?id=1078) with [Dr. Simone Dietrich](https://simone-dietrich.com/) and [Dr. Alice Iannantuoni](https://www.aliceiannantuoni.com/). Our work tracks the development of aid norms in the OECD's Development Assistance Committee and the ways such disseminate to domestic aid bureaucracies through the organization's work and, in particular, its peer review process. 
+I am also part of the Swiss National Science Foundation project ["Evaluating the Pursuit of International Development Norms through Peer Review"](https://www.unige.ch/sciences-societe/speri/recherche/projets-de-recherche/?id=1078) with [Dr. Simone Dietrich](https://simone-dietrich.com/) and [Dr. Alice Iannantuoni](https://www.aliceiannantuoni.com/). Our work tracks the development of aid norms in the OECD's Development Assistance Committee and the ways such disseminate to domestic aid bureaucracies through the organization's work and, in particular, its peer review process. 
 
 
 {style="text-align: justify;"}
