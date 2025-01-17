@@ -18,7 +18,7 @@ sections:
   content:
     title: Other ongoing research
     subtitle:
-    text: <p><strong>"Examining New Donors in the OECD’s Development Assistance Committee"</strong> with Nicolas Bau, Alice Iannantuoni and Simone Dietrich (Draft available on request)<p> <p><strong>"Targeting Gender Equality through Foreign Aid"</strong> with Daniela Donno, Simone Dietrich and Alice Iannantuoni (Draft available on request)<p> <p><strong>"Populism and the Promotion of Inclusive Governance Abroad: Evidence from OECD DAC Policy Markers"</strong> with Nicolas Bau, Alice Iannantuoni, and Simone Dietrich (Draft available on request)<p>
+    text: <p><strong>"Examining New Donors in the OECD’s Development Assistance Committee"</strong> with Nicolas Bau, Alice Iannantuoni and Simone Dietrich (Draft available on request)<p> <p><strong>"Targeting Gender Equality through Foreign Aid"</strong> with Daniela Donno, Simone Dietrich and Alice Iannantuoni (Draft available on request)<p> <p><strong>"Populism and the Promotion of Inclusive Governance Abroad - Evidence from OECD DAC Policy Markers"</strong> with Nicolas Bau, Alice Iannantuoni, and Simone Dietrich (Draft available on request)<p>
   design:
     columns: '2'
 - block: markdown
