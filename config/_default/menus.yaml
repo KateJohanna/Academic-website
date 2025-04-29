@@ -16,11 +16,14 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
+  - name: Non-Academic Publications
+    url: publications-non-academic
+    weight: 50
   - name: CV
     url: uploads/Katharina-Fleiner-CV.pdf
-    weight: 50
-  - name: Contact me
     weight: 60
+  - name: Contact me
+    weight: 70
     url: '#contact'
 
 
