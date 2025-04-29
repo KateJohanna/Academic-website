@@ -1,52 +1,24 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Gender mainstreaming (the incorporation of a gender equality perspective into the design, implementation, and evaluation of all aid projects) has become a signature policy tool among Western donors. However, advancing gender equality can be politically contentious and lead to backlash, particularly in autocratic regimes where women’s socioeconomic status is low. We argue that donors’ desire for recipient government buy-in creates incentives for them to pay attention to domestic policy cues, whose salience varies across regime types. Employing detailed data from the OECD’s Gender Equality Policy Marker, we show that donors engage differently with democracies and autocracies. Among democratic recipients, those with higher legal status for women have less gender mainstreaming aid, suggesting a “needs-based” logic. Conversely, in autocracies, donors respond positively to policy cues indicating the (domestic) political acceptability of gender equality. Our findings underscore the importance of treating gender mainstreaming as a distinct category of assistance whose application is attuned to domestic implementation problems. Beyond the study of foreign aid, we offer insights into how international audiences may interpret policy cues differently depending on regime type.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
+- Simone Dietrich
+- Daniela Donno
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Alice Iannantuoni
+date: "2025-04-24"
+doi: "10.1093/isq/sqaf033"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*International Studies Quarterly, 69*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2025-04-24"
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
----
+title: The Politics of Gender Mainstreaming in Foreign Aid
+url_code: https://academic.oup.com/isq/article/69/2/sqaf033/8118922
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
