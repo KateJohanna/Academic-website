@@ -30,7 +30,7 @@ sections:
     design:
       columns: '2'
 - block: markdown
-  id: publications-non-academic
+  id: publications
   content:
     title: Non-academic publications
     subtitle: Read my contributions to the UK Investor Magazine <a href=https://ukinvestormagazine.co.uk/author/katy-fleiner/>HERE</a>
