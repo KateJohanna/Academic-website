@@ -1,4 +1,5 @@
 ---
+id: publications
 cms_exclude: true
 header:
   caption: ""
