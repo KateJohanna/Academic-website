@@ -44,9 +44,11 @@ sections:
     design:
       columns: '2'
 - block: markdown
- content: 
-     title: Non-academic publications
-     subtitle: Read my contributions to the UK Investor Magazine <a href=https://ukinvestormagazine.co.uk/author/katy-fleiner/>HERE</a>
+  content: 
+    title: Non-academic publications
+    subtitle: Read my contributions to the UK Investor Magazine <a href="https://ukinvestormagazine.co.uk/author/katy-fleiner/">HERE</a>
+  design:
+    columns: '2'
   - block: markdown
     id: teaching
     content:
