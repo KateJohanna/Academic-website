@@ -37,18 +37,15 @@ sections:
   - block: markdown
     id: publications
     content:
-      title: Academic publications
+      title: Publications
       subtitle:
       text: >
+        <h2>Academic Publications</h2>
         <p>Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> <em>International Studies Quarterly</em>. Available: <a href="https://academic.oup.com/isq/article/69/2/sqaf033/8118922">HERE</a></p>
+        <h2>Non-academic Publications</h2>
+        <p> <a href="https://ukinvestormagazine.co.uk/author/katy-fleiner/">HERE</a> <\p>
     design:
       columns: '2'
-- block: markdown
-  content: 
-    title: Non-academic publications
-    subtitle: Read my contributions to the UK Investor Magazine <a href="https://ukinvestormagazine.co.uk/author/katy-fleiner/">HERE</a>
-  design:
-    columns: '2'
   - block: markdown
     id: teaching
     content:
