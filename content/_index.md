@@ -26,7 +26,7 @@ sections:
   content:
     title: Academic publications
     subtitle:
-    text: <p> Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> International Studies Quarterly. Available: <a  href="https://academic.oup.com/isq/article/69/2/sqaf033/8118922">HERE</a><p>
+    text: <p> Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> International Studies Quarterly. Available: <a>href=https://academic.oup.com/isq/article/69/2/sqaf033/8118922>HERE</a> </p>
   design:
     columns: '2'
 - block: markdown
@@ -34,8 +34,32 @@ sections:
   content:
     title: Teaching
     subtitle: 
-    text: <h2>Independent Instructor</h2> <p><strong>"Méthodes quantitatives"</strong>, Lecture for BA students in the Faculty for Social Sciences (Yr2), University of Geneva (Spring 2025)<p>
-<p><strong>"Contemporary Challenges in International Economic Relations"</strong>, Seminar in the BA International Relations (Yr2), University of Geneva (Autumn 2018 - current)<p> <p><strong>"Supervision of Bachelor Dissertation Projects"</strong>, BA International Relations (Yr3), University of Geneva (Autumn 2018 - Spring 2020)<p><h2>Guest Lecture</h2> <p><strong>"Seminar on the role of Sovereign Weath Funds in International Relations"</strong>, for Nicolas Bau, BA International Relations (Yr2), University of Geneva (Spring 2023)<p><p><strong>"Introduction to International Relations - Session on International Development"</strong>, for Dr. Simone Dietrich, BA International Relations (Yr1), University of Geneva (Autumn 2021)<p><h2>Teaching Experience outside University</h2> <h4><a href="https://debatechamber.com/">Debate Chamber</a> Summer School Courses, London, UK (2018 - 2021)</h4><ul><li>Introduction to International Relations</li><li>Introduction to Economics</li><li>Money, Capital, and Financial Markets</li><li>Growth, Development and Inequalities</li></ul><h4>German Language Cafe Teacher, Colchester, UK (2017-2017)</h4>
+    text: <h2>Independent Instructor</h2> 
+          <p><strong>"Méthodes quantitatives"</strong>, Lecture           for BA students in the Faculty for Social Sciences              (Yr2), University of Geneva (Spring 2025)</p>
+          <p><strong>"Contemporary Challenges in International            Economic Relations"</strong>, Seminar in the BA   
+          International Relations (Yr2), University of Geneva 
+          (Autumn 2018 - current)</p> 
+          <p><strong>"Supervision of Bachelor Dissertation 
+          Projects"</strong>, BA International Relations (Yr3), 
+          University of Geneva (Autumn 2018 - Spring 2020)</p>
+          <h2>Guest Lecture</h2> 
+          <p><strong>"Seminar on the role of Sovereign Weath 
+          Funds in International Relations"</strong>, for   
+          Nicolas Bau, BA International Relations (Yr2), 
+          University of Geneva (Spring 2023)</p>
+          <p><strong>"Introduction to International Relations - 
+          Session on International Development"</strong>, for 
+          Dr. Simone Dietrich, BA International Relations (Yr1),           University of Geneva (Autumn 2021)</p>
+          <h2>Teaching Experience outside University</h2> 
+          <h4><a href="https://debatechamber.com/">Debate     
+          Chamber</a> Summer School Courses, London, UK (2018 - 
+          2021)</h4>
+          <ul><li>Introduction to International Relations</li>
+          <li>Introduction to Economics</li>
+          <li>Money, Capital, and Financial Markets</li>
+          <li>Growth, Development and Inequalities</li></ul>
+          <h4>German Language Cafe Teacher, Colchester, UK      
+          (2017-2017)</h4>
     design:
       columns: '2'
 - block: contact

@@ -13,14 +13,17 @@ main:
   - name: Other ongoing research
     url: '#research'
     weight: 30
+  - name: Publications
+    url: '#publications'
+    weight: 40
   - name: Teaching
     url: '#teaching'
-    weight: 40
+    weight: 50
   - name: CV
     url: uploads/Katharina-Fleiner-CV.pdf
-    weight: 50
-  - name: Contact me
     weight: 60
+  - name: Contact me
+    weight: 70
     url: '#contact'
 
 
