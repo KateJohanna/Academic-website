@@ -26,8 +26,8 @@ sections:
   content:
     title: Academic publications
     subtitle:
-    text: <p> Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> International Studies Quarterly. Available: <a  href=https://academic.oup.com/isq/article/69/2/sqaf033/8118922>HERE</a>.<p>
-design:
+    text: <p> Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> International Studies Quarterly. Available: <a  href=https://academic.oup.com/isq/article/69/2/sqaf033/8118922>HERE</a> <p>
+  design:
     columns: '2'
 - block: markdown
   id: teaching
