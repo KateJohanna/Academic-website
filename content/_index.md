@@ -29,7 +29,6 @@ sections:
       title: Other ongoing research
       subtitle:
       text: >
-        <p><strong>"Examining New Donors in the OECD’s Development Assistance Committee"</strong> with Nicolas Bau, Alice Iannantuoni and Simone Dietrich (Draft available on request)</p>
         <p><strong>"Populism and the Promotion of Inclusive Governance Abroad – Evidence from OECD DAC Policy Markers"</strong> with Nicolas Bau, Alice Iannantuoni, and Simone Dietrich (Draft available on request)</p>
     design:
       columns: '2'
@@ -41,6 +40,7 @@ sections:
       subtitle:
       text: >
         <h2>Academic Publications</h2>
+        <p>Nicolas Bau, Simone Dietrich, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"Examining New Donors in the OECD’s Development Assistance Committee"</strong> <em>Journal of International Development</em>. Available: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jid.70000">HERE</a></p>
         <p>Simone Dietrich, Daniela Donno, Katharina Fleiner, and Alice Iannantuoni (2025) <strong>"The Politics of Gender Mainstreaming in Foreign Aid"</strong> <em>International Studies Quarterly</em>. Available: <a href="https://academic.oup.com/isq/article/69/2/sqaf033/8118922">HERE</a></p>
         <h2>Non-academic Publications</h2>
         <p> Read my contributions to the UK Investor Magazine <a href="https://ukinvestormagazine.co.uk/author/katy-fleiner/">HERE</a>
