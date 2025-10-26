@@ -17,6 +17,7 @@ highlight_name: true
 interests:
 - Political Economy
 - State-led Finance
+- Global Governance and Economic Cooperation
 - International Development Cooperation
 - The Global Monetary System
 - Delegation and Agency in Public Administration
