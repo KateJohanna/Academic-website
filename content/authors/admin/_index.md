@@ -7,19 +7,19 @@ education:
     year: 2018 - 2025
   - course: MPhil in Development Studies
     institution: University of Cambridge
-    year: 2018
+    year: 2017 - 2018
   - course: BA in International Relations
     institution: University of Essex
-    year: 2017
+    year: 2013 - 2017
 email: "katharina.fleiner@unige.ch"
 first_name: Katharina
 highlight_name: true
 interests:
-- International and Comparative Political Economy
+- Political Economy
 - State-led Finance
 - International Development Cooperation
-- The Global Monetary and Financial System
-- Public administration and Corporate Governance in the Context of the Global Economy
+- The Global Monetary System
+- Delegation and Agency in Public Administration
 
 last_name: Fleiner
 organizations:
