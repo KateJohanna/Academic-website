@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Geneva
-    year: 2018 - current
+    year: 2018 - 2025
   - course: MPhil in Development Studies
     institution: University of Cambridge
     year: 2018
@@ -15,17 +15,17 @@ email: "katharina.fleiner@unige.ch"
 first_name: Katharina
 highlight_name: true
 interests:
-- Political Economy
-- International Finance and Investment
-- Aid and Development Finance
-- International Organizations
-- Monetary and Financial Policy
-- Quantitative research methods and quantitative text analysis
+- International and Comparative Political Economy
+- State-led Finance
+- International Development Cooperation
+- The Global Monetary and Financial System
+- Public administration and Corporate Governance in the Context of the Global Economy
+
 last_name: Fleiner
 organizations:
 - name: University of Geneva
   url: https://www.unige.ch/
-role: PhD Candidate in Political Science
+role: Political Economist and Affiliated Researcher
 social:
 - icon: envelope
   icon_pack: fas
