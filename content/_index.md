@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2025-10-26"
 sections:
   - block: about.avatar
     content:
@@ -9,17 +9,22 @@ sections:
   - block: markdown
     id: thesis
     content:
-      title: State-led finance in the 21st century - The rise and governance of Sovereign Wealth Funds
+      title: State-led finance in the 21st century - The Rise and Governance of Sovereign Wealth Funds
       subtitle: Thesis project
       text: >
         <h2>Project summary</h2>
-        <p>My PhD project investigates the increased creation of Sovereign Wealth Funds (SWFs) over the past 25 years. SWFs are pools of public financial assets invested in international and domestic financial markets following commercially-oriented, profit-driven strategies. This new form of state investment is delegated either to an existing public body or to a newly created institution, and the choices governments make regarding the governance structures for these funds differ notably between countries. In some, governments can directly influence the investment of SWF assets and the use of their profits. In others, government interference is severely limited by the funds' structures. SWF creation, therefore, impacts the level of influence different public actors can have on the use of public finances as well as their allocation in the global economy.</p>
-        <p>I explore this phenomenon in the context of economic globalisation, financialization, and the global economic crises of the past three decades. Using novel quantitative data on SWF creation and the institutional structures that govern them, case study evidence, and interviews, I investigate the political economy factors that influence governments' use of SWFs as tools to address economic challenges. This work contributes to the literature on state financialization and the revival of industrial policy by analysing the institutional context in which SWFs operate.</p>
+        <p>SWFs are fully state owned investment vehicles that pursue commercially oriented, profit driven strategies. Over the past thirty years, they have grown in both number and total assets under management to become a significant group of investors shaping the global allocation of capital, both through their role as equity investors and in forging new long-term international investment partnerships with both private and public partners. </p>
+        <p>Their rise raises questions about whether global finance is becoming more politicised as states reclaim their role as active investors. At the same time, SWFs may reflect a broader trend toward the marketisation of public investment by introducing market-driven motives and logics into decisions about how public financial resources are allocated. Understanding whether SWFs operate as politicised instruments of the state or as vehicles for market-based investment is key to assessing how they reshape state–market relations and patterns of international economic cooperation.</p>
+        <p>To explore this, my project investigates both the motives behind SWF creation and their governance arrangements that influence how political priorities influence investment strategies. I situate the rise of SWFs within the context of economic globalisation, financialisation, and the global economic crises of the past three decades. Using a mixed-methods approach—including cross-national data on SWF creation between 1970 and 2018, a novel dataset on the governance structures of 60 SWFs in 2022, and four case studies (Ireland, France, Nigeria, and China)—I show that the Global Financial Crisis in particular spurred new SWF creation as a state-led, market-oriented response to rising economic challenges. Governance structures, I demonstrate, reflect nationally specific ideas about the state’s role in the economy.</p>
+        <p>This work identifies the conditions under which SWFs are likely to become politicised instruments of state-led investment versus vehicles for the marketisation of public finance. It contributes to three key literatures: The study of state-led finance in the twenty-first century, research on how economic crises shape policy trajectories, and comparative capitalism scholarship on the persistence of diverse state–economy models. </p>
+        <p><strong>You can read the full manuscript-style thesis <a href="https://archive-ouverte.unige.ch/unige:187251">here</a>. </strong></p>
+        
         <h2>Working papers in this project</h2>
         <p><strong>"Global Crises, the Power of Finance and the Rise of Sovereign Wealth Funds"</strong> (Draft available on request)</p>
         <p>This paper examines the connection between international financial crises and the creation of SWFs, an understudied economic policy tool. While existing literature sees SWFs primarily as managers of natural resource wealth and foreign exchange, this fails to explain their global rise. I argue that the trend toward SWF creation stems from the Asian Financial Crisis of 1997 and the Global Financial Crisis of 2008–09. Facing pressure to respond but unwilling to hurt financial interests, governments turned to deeper market participation through SWFs. Using a dataset on 85 SWFs from 1970–2019, I show that crises are pivotal moments in SWF formation. The likelihood of SWF creation increases with the economic importance of finance.</p>
-        <p><strong>"The 'State' in State-Led Finance for Development – Understanding Political Influence in Sovereign Wealth Funds"</strong> (Draft available on request)</p>
-        <p>This paper explores how SWFs support development goals and to what extent they respond to government policy. It introduces a framework to assess SWF governance through fund autonomy, stakeholder involvement, and rules-based governance. Using a novel dataset of 60 SWFs, I find significant variation in institutional arrangements. The analysis suggests that domestic political economy models shape governance, offering broader lessons for understanding public investment institutions.</p>
+        <p><strong>"The ”State” in State-led Finance - Measuring Political Influence in Sovereign Wealth Funds"</strong> (Draft available on request)</p>
+        <p>This paper examines the governance of SWFs to understand how they balance political influence and market-oriented investment. I argue that SWF governance varies along three key dimensions that characterise the relationship between SWFs and their political principals: fund autonomy, public actor involvement, and approaches to rules-based governance. Using a novel dataset covering 60 SWFs from 51 countries in 2022 and 18 governance indicators, I employ descriptive analysis and multiple factor analysis to investigate cross-fund variation. The results show that these three dimensions meaningfully structure governance differences and help identify distinct models of state–fund manager relationships. The findings highlight the importance of governance arrangements for understanding SWFs' capacity to act autonomously or as instruments of state policy and offer a framework applicable to other public financial institutions.</p>
+
     design:
       columns: '1'
 
@@ -77,12 +82,6 @@ sections:
     content:
       title: Contact me
       email: katharina [dot] fleiner [at] unige [dot] ch
-      phone: +41 022 3799897
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Katie_Johanna'
 
 type: landing
 ---
