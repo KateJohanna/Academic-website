@@ -60,7 +60,7 @@ Between 2020 and 2024, I also conducted research on the Swiss National Science F
     <h3>Education</h3>
     <dl>
   <dt>PhD in Political Science</dt>
-  <dd style="color: dimgray;"> University of Geneva (2019-2025)</dd>
+  <dd style="color: dimgray;"> University of Geneva (2019 – 2025)</dd>
   <dt>MPhil in Development Studies</dt>
   <dd style="color: dimgray;"> University of Cambridge (2017 – 2018)</dd>
   <dt>BA in International Relatios</dt>
