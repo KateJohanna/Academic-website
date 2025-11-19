@@ -13,8 +13,8 @@ bio: "Political scientist at the University of Geneva with a research background
 interests:
   - Political Economy of Finance
   - Political Economy of Development
-  - Norms, Beliefs and Power
   - State Marketization and Financialization
+  - Norms and Beliefs in State-Market Interactions
   - State-led Investment
   - Delegation and Agency 
   - Public Administration
@@ -52,7 +52,7 @@ social:
 
 # Welcome!
 
-I am a political scientist with research interests in international and comparative political economy. My research examines how states' responses to socio-economic challenges are reshaping global economic governance and the role of the state in the global economy. I aim to advance our understanding of the actors, interests, norms, and strategies that are empowered by systems of global economic governance and how these dynamics shape power relations in and forms of inter-state and public-private cooperation. My work combines insights from political economy and public administration, with close attention to how the bureaucratic governance and administration of public economic agencies shape states’ engagement in the global economy.
+I am a political scientist with research interests in international and comparative political economy. My research examines how states' responses to socio-economic challenges are reshaping global economic governance and the role of the state in the global economy. I aim to advance our understanding of the actors, interests, norms, and strategies that are empowered by systems of global economic governance and how these dynamics shape power relations in and forms of inter-state and public-private cooperation. My work combines insights from political economy and public administration, with close attention to how the bureaucratic governance and administration of public economic agencies shape states’ engagement with the global economy.
 
 In July 2025, I defended my PhD project ["State-Led Finance in the 21st Century: A Comparative Analysis of the Rise and Governance of Sovereign Wealth Funds (SWFs)"](https://archive-ouverte.unige.ch/unige:187251). In this thesis, I first examine why, since the late 1990s, states have increasingly created SWFs as tools to address rising economic challenges through market-based investment. I then analyse the mechanisms of state control and delegation embedded in SWFs' governance arrangements to shed light on the shifting boundaries between state authority and financial market power in the allocation of state-led investment in global financial markets. 
 
