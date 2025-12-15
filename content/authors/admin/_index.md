@@ -32,9 +32,9 @@ social:
 
 # Welcome!
 
-I am a political scientist with research interests in international and comparative political economy. My research examines how states' responses to economic challenges are reshaping global economic governance and the role of the state in the global economy. 
+I am a political scientist with research interests in international and comparative political economy. My research examines how states' respond to global economic challenges and how such responses reshape global economic governance and the role of the state in the global economy. 
 
-I aim to advance our understanding of the actors, interests, norms, and strategies that are empowered by systems of global economic governance and how these dynamics shape power relations in and forms of inter-state and public-private cooperation. To this end, I pay close attention to how the governance of public economic agencies shapes states’ engagement with the global economy.
+I am particularly interested in how states respond to rising global challenges by fostering new forms of inter-state and public-private cooperation, and how these arrangements redistribute power within global economic governance. My research highlights the actors, interests, strategies, and norms that are empowered through these forms of cooperation. To this end, I pay close attention to how the governance of public economic agencies shapes states’ engagement with the global economy.
 
 In July 2025, I defended my PhD project ["State-Led Finance in the 21st Century: A Comparative Analysis of the Rise and Governance of Sovereign Wealth Funds (SWFs)"](https://archive-ouverte.unige.ch/unige:187251). In this thesis, I examine why states have increasingly created SWFs as instruments of state-led investment and analyse the mechanisms of state control and delegation embedded in SWFs' governance arrangements. This work sheds light on the shifting boundaries between state authority and market power in global finance. 
 
