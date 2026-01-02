@@ -32,7 +32,7 @@ social:
 
 # Welcome!
 
-I am a political scientist with research interests in international and comparative political economy. My research examines how states' respond to global economic challenges and how such responses reshape global economic governance and the role of the state in the global economy. 
+I am a political scientist with research interests in international and comparative political economy. My research examines how states respond to global economic challenges and how such responses reshape global economic governance and the role of the state in the global economy. 
 
 I am particularly interested in how states respond to rising global challenges by fostering new forms of inter-state and public-private cooperation, and how these arrangements redistribute power within global economic governance. My research highlights the actors, interests, strategies, and norms that are empowered through these forms of cooperation. To this end, I pay close attention to how the governance of public economic agencies shapes states’ engagement with the global economy.
 
